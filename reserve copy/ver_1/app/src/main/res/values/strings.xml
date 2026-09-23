@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyStudyProject1</string>
+    <string name="empty_text">empty text</string>
+    <string name="mobile_is_charging">Mobile is charging...</string>
+    <string name="mobile_is_not_charging">Mobile is not charging...</string>
+    <string name="on_off_tracker">On/Off timer</string>
+    <string name="create_a_new_note">Create a new Note</string>
+    <string name="notes">Notes</string>
+    <string name="apply">Apply</string>
+    <string name="add">Add</string>
+    <string name="merge_contact">merge contact</string>
+    <string name="create_note">Create note</string>
+    <string name="share">Share</string>
+    <string name="delete">delete</string>
+    <string name="contact">Contact: </string>
+    <string name="empty_note_list">Empty note list...</string>
+    <string name="pin_a_contact">pin a contact</string>
+    <string name="pin_a_picture">pin a picture</string>
+    <string name="do_you_want_delete_it">do you want to delete it?</string>
+    <string name="menu">Menu</string>
+
+</resources>

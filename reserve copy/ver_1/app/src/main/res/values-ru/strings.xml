@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStudyProject1</string>
+    <string name="empty_text">текст отсутствует</string>
+    <string name="mobile_is_charging">Телефон подключен к зарядке...</string>
+    <string name="mobile_is_not_charging">Телефон отключен от зарядки...</string>
+    <string name="on_off_tracker">Вкл/Выкл таймер</string>
+    <string name="create_a_new_note">Создать новую заметку</string>
+    <string name="notes">Заметки</string>
+    <string name="apply">Подтвердить</string>
+    <string name="add">Добавить</string>
+    <string name="merge_contact">Присоединить контакт</string>
+    <string name="create_note">Создание заметки</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="contact">Контакт: </string>
+    <string name="empty_note_list">Пустой список заметок...</string>
+    <string name="pin_a_contact">Прикрепить контакт</string>
+    <string name="pin_a_picture">Прикрепить картинку</string>
+    <string name="do_you_want_delete_it">Вы хотите удалить заметку?</string>
+    <string name="menu">Menu</string>
+</resources>
